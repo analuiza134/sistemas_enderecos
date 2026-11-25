@@ -47,3 +47,4 @@ if (isset($_GET['cep'])) {
     <h2>CEP não encontrado</h2>
     <p>O CEP digitado pelo usuário não existe</p>
 <?php endif; ?>
+<a href="lista php">ver todas os cep</a>
